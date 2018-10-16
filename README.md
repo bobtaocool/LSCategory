@@ -5,24 +5,21 @@
 [![License](https://img.shields.io/cocoapods/l/LSCategory.svg?style=flat)](https://cocoapods.org/pods/LSCategory)
 [![Platform](https://img.shields.io/cocoapods/p/LSCategory.svg?style=flat)](https://cocoapods.org/pods/LSCategory)
 
-## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## 安装方法
 
-## Requirements
-
-## Installation
-
-LSCategory is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-```ruby
+CocoaPods
+```
 pod 'LSCategory'
 ```
 
-## Author
+## 使用方法
 
-陶冬波, 785429438@qq.com
+引入头文件 #import "LSCategory.h" 即可
+
+## 作者
+
+bobTao, 785429438@qq.com
 
 ## License
 
