@@ -1,0 +1,22 @@
+{
+  "name": "LSCategory",
+  "version": "0.1.0",
+  "summary": "A short description of LSCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/陶冬波/LSCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "陶冬波": "785429438@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/陶冬波/LSCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LSCategory/Classes/**/*"
+}
