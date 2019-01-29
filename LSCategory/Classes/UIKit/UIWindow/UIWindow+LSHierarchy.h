@@ -22,4 +22,12 @@
  */
 - (UIViewController*)ls_currentViewController;
 
+
+/**
+ 获取当前UI显示的vc(排除了UIAlertController)
+
+ @return UIViewController
+ */
++ (UIViewController *)ls_getCurrentUIVC;
+
 @end

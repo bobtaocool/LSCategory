@@ -1,6 +1,6 @@
 use_frameworks!
 target 'LSCategory_Tests' do
-  pod 'LSCategory', :path => '../'
+  pod 'LSCategory', :path => '../LSCategory.podspec'
   
   
 end
